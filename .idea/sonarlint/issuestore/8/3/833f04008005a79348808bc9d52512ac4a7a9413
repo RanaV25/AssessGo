@@ -1,0 +1,26 @@
+
+W
+java:S1141q"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8£ÂŒ†¥.
+E
+java:S1148Y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£ÂŒ†¥.
+E
+java:S1148t"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£ÂŒ†¥.
+F
+java:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£ÂŒ†¥.
+[
+java:S1128"?Remove this unused import 'com.vaadin.flow.component.html.Div'.(şÚ¯#8£ÂŒ†¥.
+p
+java:S1128"SRemove this unused import 'com.vaadin.flow.component.orderedlayout.VerticalLayout'.(ú¤ûö8£ÂŒ†¥.
+h
+java:S1128
+"LRemove this unused import 'com.vaadin.flow.component.formlayout.FormLayout'.(ôÁU8£ÂŒ†¥.
+Ÿ
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€¶èˆ8£ÂŒ†¥.
+J
+java:S19484"(Make "mapper" transient or serializable.(„¶¹˜ÿÿÿÿÿ8£ÂŒ†¥.
+X
+java:S1948:"6Make "businessGroupService" transient or serializable.(ÕÔÌÄÿÿÿÿÿ8£ÂŒ†¥.
+P
+java:S1948="3Make "businessGroupBean" transient or serializable.(Š«š8£ÂŒ†¥.
+d
+java:S1126J"BReplace this if-then-else statement by a single method invocation.(ô¶Ø±üÿÿÿÿ8£ÂŒ†¥.

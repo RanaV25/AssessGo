@@ -1,0 +1,10 @@
+
+nsquid:S3776?"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Â’²íıÿÿÿÿ
+Isquid:S19481"-Make "userService" transient or serializable.(¨ƒ¼¢ùÿÿÿÿ
+Asquid:S5411}"*Use the primitive boolean expression here.(øĞ…å
+Jsquid:S1948+"3Make "assessmentService" transient or serializable.(Æ¤ï
+Isquid:S1602¡",Remove useless curly braces around statement(³ƒÉ©øÿÿÿÿ
+Bsquid:S5411ˆ"*Use the primitive boolean expression here.(øĞ…å
+Dsquid:S1481i"-Remove this unused "imageUrl" local variable.(Ûª¾Ù
+Dsquid:S1948."-Make "quizService" transient or serializable.(İÚŞç
+ysquid:S1450("]Remove the "assessmentList" field and declare it as a local variable in the relevant methods.(ç¼üÿÿÿÿ

@@ -1,0 +1,199 @@
+<link rel="import" href="../bower_components/vaadin-lumo-styles/badge.html">
+<link rel="import" href="../bower_components/vaadin-lumo-styles/color.html">
+<link rel="import" href="../bower_components/vaadin-lumo-styles/style.html">
+<link rel="import" href="../bower_components/vaadin-lumo-styles/typography.html">
+
+<link rel="stylesheet" href="lumo-border-radius.css">
+<link rel="stylesheet" href="lumo-icon-size.css">
+<link rel="stylesheet" href="lumo-margin.css">
+<link rel="stylesheet" href="lumo-padding.css">
+<link rel="stylesheet" href="lumo-shadow.css">
+<link rel="stylesheet" href="lumo-spacing.css">
+<link rel="stylesheet" href="lumo-typography.css">
+
+<link rel="import" href="components/account-switcher.html">
+<link rel="import" href="components/app-bar.html">
+<link rel="import" href="components/brand-expression.html">
+<link rel="import" href="components/charts.html">
+<link rel="import" href="components/details-drawer.html">
+<link rel="import" href="components/floating-action-button.html">
+<link rel="import" href="components/initials.html">
+<link rel="import" href="components/list-item.html">
+<link rel="import" href="components/navi-drawer.html">
+<link rel="import" href="components/navi-icon.html">
+<link rel="import" href="components/navi-item.html">
+<link rel="import" href="components/navi-menu.html">
+<link rel="import" href="components/tab-bar.html">
+<link rel="import" href="components/notification-item.html">
+<link rel="import" href="components/dialog-box.html">
+
+<link rel="stylesheet" href="misc/box-shadow-borders.css">
+
+<link rel="stylesheet" href="views/dashboard.css">
+<link rel="stylesheet" href="views/grid-view.css">
+<link rel="stylesheet" href="views/report-details.css">
+<link rel="stylesheet" href="views/view-frame.css">
+<link rel="stylesheet" href="views/add-account.css">
+
+<custom-style>
+    <style include="lumo-badge">
+        :root {
+            --app-bar-height-desktop: var(--lumo-size-xl);
+            --app-bar-height-mobile: var(--lumo-size-l);
+
+            --navi-drawer-rail-width: calc(var(--lumo-size-m) * 1.75);
+            --navi-drawer-width: calc(var(--lumo-size-m) * 7);
+            --navi-item-indentation: calc(var(--lumo-icon-size-s) + var(--lumo-space-l));
+
+            --details-drawer-width: calc(var(--lumo-size-m) * 11);
+
+            --transition-duration-s: 160ms;
+            --transition-duration-m: 240ms;
+            --transition-duration-l: 320ms;
+        }
+
+        /* Responsive sizing and spacing */
+        @media (max-width: 479px) {
+            :root {
+                --lumo-space-r-m: var(--lumo-space-s);
+                --lumo-space-r-l: var(--lumo-space-m);
+                --lumo-space-r-x: 0;
+
+                --lumo-space-wide-r-m: var(--lumo-space-wide-s);
+                --lumo-space-wide-r-l: var(--lumo-space-wide-m);
+            }
+        }
+
+        @media (min-width: 480px) and (max-width: 1023px) {
+            :root {
+                --lumo-space-r-m: var(--lumo-space-s);
+                --lumo-space-r-l: var(--lumo-space-m);
+                --lumo-space-r-x: var(--lumo-space-m);
+
+                --lumo-space-wide-r-m: var(--lumo-space-wide-s);
+                --lumo-space-wide-r-l: var(--lumo-space-wide-m);
+            }
+        }
+
+        @media (min-width: 1024px) {
+            :root {
+                --lumo-space-r-m: var(--lumo-space-m);
+                --lumo-space-r-l: var(--lumo-space-l);
+                --lumo-space-r-x: var(--lumo-space-l);
+
+                --lumo-space-wide-r-m: var(--lumo-space-wide-m);
+                --lumo-space-wide-r-l: var(--lumo-space-wide-l);
+            }
+        }
+
+        html,
+        body {
+            height: 100%;
+            overflow: hidden;
+            width: 100%;
+        }
+
+
+        vaadin-grid-cell-content {
+            text-overflow: ellipsis;
+        }
+
+        vaadin-text-field {
+            align-self: auto;
+        }
+
+        .field-mandatory-indicator::after {
+            content: " *";
+            color: red;
+            font-weight: bold;
+        }
+
+        .app-header-outer,
+        .app-footer-outer {
+            z-index: 3;
+        }
+
+        .avatar-grid {
+            width: 35px;
+            height: 35px;
+        }
+
+        .label-403 {
+            font-size: 100px;
+            color: #fd8b7f;
+        }
+
+        .sign_up_form{
+            margin-right: 10%;
+            margin-left: 10%;
+        }
+        .signUpContainer {
+            margin-left: auto;
+            margin-right: auto;
+            /*background: #dfdfdf;*/
+            box-shadow: none;
+        }
+
+        .login_button{
+            background: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 5px;
+            border-radius: 3px;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        .login-form{
+            margin-left: auto;
+            margin-right: auto;
+            width: calc(var(--lumo-size-m) * 10);
+            margin-top: 3%;
+        }
+
+        .login_header{
+            background-image: url("images/login-banner.png");
+
+        }
+        .login_header h1{
+            color: #fff;
+        }
+        .error-msg-cont {
+            color: red;
+            text-align: center;
+            background: #ffb3aa;
+        }
+
+        .dialog-header{
+            background: #2482e6;
+            padding-left: 20px;
+            padding-right: 10px;
+        }
+
+        .dialog-header h4{
+            color: #fff;
+            padding-bottom: 10px;
+        }
+
+        .dialog-header vaadin-button{
+            color: #fff;
+            margin-top: 15px;
+        }
+
+        .sign-up-btn-layout{
+            width: auto !important;
+            margin-right: auto !important;
+            margin-left: auto !important;
+            margin-top: 12px;
+        }
+        .signup-image-container{
+            width: 100px;
+            height: 100px;
+            border: 1px solid #dfdfdf;
+        }
+    </style>
+</custom-style>
+
+
+
+

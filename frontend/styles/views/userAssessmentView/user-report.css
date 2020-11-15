@@ -1,0 +1,101 @@
+#main-view {
+    width: 100%;
+    overflow: auto;
+}
+
+#chart-container {
+    width: 160px;
+    height: 160px;
+}
+
+#total-questions-card {
+    padding: 16px;
+}
+
+#total-answer-card {
+    padding: 16px;
+}
+
+#total-correct-card {
+    padding: 16px;
+}
+
+#total-wrong-card {
+    padding: 16px;
+}
+
+#btn-div {
+    padding: 16px;
+    text-align: center;
+}
+
+#overall-div {
+    padding: 16px;
+    margin: 8px;
+}
+
+#main-container {
+    padding: 16px;
+}
+
+#button-div {
+    padding: 16px;
+    text-align: center;
+}
+
+#page-personal-report {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#color-code-div {
+
+
+}
+
+#color-code-first-level {
+    display: flex;
+    flex-direction: row;
+}
+
+.color-code-description-box {
+    margin-right: 8px;
+}
+
+.color-code-text {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 2px;
+}
+
+.color-code-awareness {
+    background-color: #EFA309;
+}
+
+.color-code-basic {
+    background-color: #DEBA13;
+}
+
+.color-code-delivery {
+    background-color: #CED11C;
+}
+
+.color-code-experience {
+    background-color: #BDE826;
+}
+
+.color-code-shaping {
+    background-color: #ADFF2F;
+}
+
+.average-score-box-container {
+    align-items: baseline;
+    margin: 16px;
+}
+
+.average-score-content {
+    margin: 16px;
+    align-items: baseline;
+}

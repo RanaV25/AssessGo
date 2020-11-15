@@ -1,0 +1,110 @@
+
+t	java:S116å"RRename this field "TXT_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‰Ê¶üÿÿÿÿ8•ÂÁµ.
+[
+java:S1144¼
+"=Remove this unused private "isSelectedTypeAssessment" method.(´“æÖ8•ÂÁµ.
+W
+java:S4973¡"9Use the "equals" method if value comparison was intended.(Á„ ì8•ÂÁµ.
+‰
+java:S1488•
+"fImmediately return this expression instead of assigning it to the temporary variable "streamResource".(²éøŒşÿÿÿÿ8•ÂÁµ.
+Q
+java:S1481â".Remove this unused "accountId" local variable.(æ½•äøÿÿÿÿ8•ÂÁµ.
+R
+java:S1066û"/Merge this if statement with the enclosing one.(ƒ˜å”şÿÿÿÿ8•ÂÁµ.
+T
+java:S1948›"1Make "tempAccountsSet" transient or serializable.(Õ±Ñ®ÿÿÿÿÿ8•ÂÁµ.
+p
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰×›±8•ÂÁµ.
+I
+java:S1602‰	",Remove useless curly braces around statement(ÏŠ¸\8•ÂÁµ.
+\
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(øŠ¹º8•ÂÁµ.
+\
+java:S4973Ï"9Use the "equals" method if value comparison was intended.(š…Óšıÿÿÿÿ8•ÂÁµ.
+F	java:S108")Either remove or fill this block of code.(”ı¾8•ÂÁµ.
+F	java:S108Ç
+")Either remove or fill this block of code.(”ı¾8•ÂÁµ.
+K
+java:S1604²
+"(Make this anonymous inner class a lambda(Šßñìùÿÿÿÿ8•ÂÁµ.
+P
+java:S1948¡"-Make "roleService" transient or serializable.(Ù¤Ã•úÿÿÿÿ8•ÂÁµ.
+O
+java:S1602’",Remove useless curly braces around statement(¡ú‰Éüÿÿÿÿ8•ÂÁµ.
+ƒ	java:S116æ"aRename this field "TXT_ASSOCIATION_STATUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‘’¶ıÿÿÿÿ8•ÂÁµ.
+N
+java:S1481©"+Remove this unused "userId" local variable.(‰¡œüÿÿÿÿ8•ÂÁµ.
+p
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(÷ú‘»8•ÂÁµ.
+y	java:S116ä"WRename this field "TXT_SPECIFIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¾ùÕıÿÿÿÿ8•ÂÁµ.
+`
+java:S1126Ñ
+"BReplace this if-then-else statement by a single method invocation.(‰¼Ë8•ÂÁµ.
+F	java:S108ÿ")Either remove or fill this block of code.(ï­£Ä8•ÂÁµ.
+T
+java:S1948×"1Make "questionService" transient or serializable.(ç»¥ÿÿÿÿÿ8•ÂÁµ.
+a
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(‹£™üÿÿÿÿ8•ÂÁµ.
+O
+java:S1602­",Remove useless curly braces around statement(¸êÄµøÿÿÿÿ8•ÂÁµ.
+e
+java:S1126í"BReplace this if-then-else statement by a single method invocation.(âƒ®Ûúÿÿÿÿ8•ÂÁµ.
+M
+java:S5411í"*Use the primitive boolean expression here.(âƒ®Ûúÿÿÿÿ8•ÂÁµ.
+F
+java:S1604÷	"(Make this anonymous inner class a lambda(ë‰ñ8•ÂÁµ.
+F	java:S108±")Either remove or fill this block of code.(”ı¾8•ÂÁµ.
+S
+java:S1948"0Make "accountService" transient or serializable.(çó³ƒüÿÿÿÿ8•ÂÁµ.
+F	java:S108ü")Either remove or fill this block of code.(üÓŒ¹8•ÂÁµ.
+Q
+java:S1481ˆ".Remove this unused "accountId" local variable.(æ½•äøÿÿÿÿ8•ÂÁµ.
+s	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¦Øàüÿÿÿÿ8•ÂÁµ.
+K	java:S108‹
+")Either remove or fill this block of code.(³À±”úÿÿÿÿ8•ÂÁµ.
+J
+java:S1602Œ	",Remove useless curly braces around statement(‘®ÒÛ8•ÂÁµ.
+Q
+java:S1948…"3Make "assessmentService" transient or serializable.(ù¤ËÖ8•ÂÁµ.
+u
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(’„ùÿÿÿÿ8•ÂÁµ.
+p
+java:S3776Ù
+"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(€ä­ÿ8•ÂÁµ.
+W
+java:S3655Ğ"9Call "assessment.isPresent()" before accessing the value.(ÁˆË8•ÂÁµ.
+K
+java:S1948ˆ"(Make "mapper" transient or serializable.(„¶¹˜ÿÿÿÿÿ8•ÂÁµ.
+P
+java:S1948‹"-Make "userService" transient or serializable.(¶òÁÈùÿÿÿÿ8•ÂÁµ.
+Q
+java:S1172
+"3Remove this unused method parameter "imageDisplay".(ÀŞä8•ÂÁµ.
+D
+java:S1481ú"&Remove this unused "d" local variable.(à×àÆ8•ÂÁµ.
+Y
+java:S1948Ğ"6Make "questionGroupService" transient or serializable.(°ƒõ¤üÿÿÿÿ8•ÂÁµ.
+e
+java:S1126¼"BReplace this if-then-else statement by a single method invocation.(¿ªÊıÿÿÿÿ8•ÂÁµ.
+Q
+java:S1481Ö".Remove this unused "accountId" local variable.(æ½•äøÿÿÿÿ8•ÂÁµ.
+U
+java:S1068ê"2Remove this unused "isWithinUpdate" private field.(Ú§Ìøûÿÿÿÿ8•ÂÁµ.
+p
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(±ğŒÏ8•ÂÁµ.
+W
+java:S4973	"9Use the "equals" method if value comparison was intended.(Š¾°8•ÂÁµ.
+R
+java:S1948Ú"/Make "answerService" transient or serializable.(ü—íÿÿÿÿÿ8•ÂÁµ.
+j
+java:S1192ã"GDefine a constant instead of duplicating this literal "update" 3 times.(¨¦ŞÆÿÿÿÿÿ8•ÂÁµ.
+Q
+java:S1948š".Make "tempUsersSet" transient or serializable.(®¦ÊÆıÿÿÿÿ8•ÂÁµ.
+^
+java:S3655ü"@Call "currentAssessment.isPresent()" before accessing the value.(üÓŒ¹8•ÂÁµ.
+s	java:S116ã"VRename this field "TXT_ACCOUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òêŠ8•ÂÁµ.
+e
+java:S1192Æ"GDefine a constant instead of duplicating this literal "Update" 3 times.(ûçöÕ8•ÂÁµ.
+V
+java:S1948İ"3Make "tempQuestionsDtos" transient or serializable.(ÚÂæÔúÿÿÿÿ8•ÂÁµ.

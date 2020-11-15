@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3b46bed-6811-4ea9-b591-a525b2909e1e" name="Default Changelist" comment="Create branch JIRA\WEAV-13" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3.2\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZILjT9hhwu4ZvKmFkqLl2EDr6Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn spring-boot:run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.local.PG">
+    <list>
+      <item itemvalue="Application.local-H2" />
+      <item itemvalue="Application.local.PG" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3b46bed-6811-4ea9-b591-a525b2909e1e" name="Default Changelist" comment="Create branch JIRA\WEAV-13" />
+      <created>1581070274723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581070274723</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Create branch JIRA\WEAV-13">
+      <created>1582039469145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582039469145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create branch JIRA\WEAV-13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create branch JIRA\WEAV-13" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="414" key="GridCell.Tab.0.bottom" timestamp="1605411571758">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="414" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1605411571758" />
+    <state width="1237" height="414" key="GridCell.Tab.0.center" timestamp="1605411571758">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="414" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1605411571758" />
+    <state width="1237" height="414" key="GridCell.Tab.0.left" timestamp="1605411571758">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="414" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1605411571758" />
+    <state width="1237" height="414" key="GridCell.Tab.0.right" timestamp="1605411571758">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="414" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1605411571758" />
+    <state x="297" y="153" width="672" height="677" key="run.anything.popup" timestamp="1605410864790">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" width="672" height="677" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1605410864790" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+</project>

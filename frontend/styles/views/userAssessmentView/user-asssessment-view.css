@@ -1,0 +1,101 @@
+
+.cardCenterContainer{
+    opacity: 0;
+    transition: all 1s;
+
+    background-color: black;
+    color: white;
+}
+
+
+.cardCenterContainer:hover {
+    opacity: 0.8;
+}
+
+
+.assessmentCard {
+
+
+    background-size: cover;
+    width: 300px;
+    margin: 13px;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)
+
+}
+
+.title {
+    background-color: #EF5350;
+        opacity: 0.8;
+        margin: 0;
+        color: white;
+        width: 100%;
+        padding: 8px;
+        box-sizing: border-box;
+        border-top-left-radius: 7px;
+        border-top-right-radius: 7px;
+}
+
+.assessmentCard:hover .cardCenterContainer{
+    opacity: 0.8;
+}
+
+.assessmentCard:hover .btnContainer{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.btnView {
+    width: 100%;
+}
+
+.type {
+    color: white;
+    font-color: white;
+}
+
+.type-container {
+    padding: 8px;
+}
+
+.descriptionContainer{
+    padding: 8px;
+    height: 100px;
+}
+
+
+.btnContainer {
+    background-color: rgba(0, 0, 0, 0);
+    transition: all 1s;
+
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 0;
+    opacity: 0.8;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.information-div {
+    box-sizing: border-box;
+    border: 1px solid gray;
+    border-radius: 7px;
+    padding:16px;
+    margin:16px;
+    width:100%;
+}
+
+.cards-main-layout {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px;
+    align-items: center;
+    width: 100%;
+}
+
+.main-page {
+    overflow-x : hidden;
+    overflow-y : scroll;
+}
+
+
+

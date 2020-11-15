@@ -1,0 +1,15 @@
+
+U
+java:S3655‘"7Call "Optional#isPresent()" before accessing the value.(°¸Šà8¹´÷…¥.
+i
+java:S1128"LRemove this unused import 'com.weaverealm.frontend.model.DiagramsViewModel'.( —£8¹´÷…¥.
+t
+java:S1450A"RRemove the "row" field and declare it as a local variable in the relevant methods.(¥¾©´ûÿÿÿÿ8¹´÷…¥.
+Q
+java:S1905R"/Remove this unnecessary cast to "ErrorHandler".(™ÓšÚÿÿÿÿÿ8¹´÷…¥.
+Y
+java:S1144Ã"6Remove this unused private "setAppHeaderOuter" method.(ƒÿ¬Šıÿÿÿÿ8¹´÷…¥.
+T
+java:S1144×"6Remove this unused private "setAppFooterInner" method.(ğš˜¨8¹´÷…¥.
+T
+java:S1144â"6Remove this unused private "setAppFooterOuter" method.(ıÈ·Ç8¹´÷…¥.

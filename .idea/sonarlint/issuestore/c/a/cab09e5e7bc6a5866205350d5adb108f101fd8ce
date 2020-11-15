@@ -1,0 +1,10 @@
+
+asquid:S1192<"JDefine a constant instead of duplicating this literal "drop-area" 4 times.(”‹‹Æ
+?squid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+˜squid:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ğŒÏ
+Csquid:S1602:",Remove useless curly braces around statement(ˆ·³ø
+Hsquid:S1602e",Remove useless curly braces around statement(Òö¼ğøÿÿÿÿ
+gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(°’ùäùÿÿÿÿ
+bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(µÇÛ
+gsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(°’ùäùÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°’ùäùÿÿÿÿ

@@ -1,0 +1,24 @@
+<dom-module id="notification-theme" theme-for="vaadin-notification-card">
+    <template>
+        <style>
+            :host([theme~="info"]) [part~="overlay"] {
+                color: var(--lumo-primary-text-color);
+                background-color: var(--lumo-primary-contrast-color);
+            }
+
+            :host([theme~="success"]) [part~="overlay"] {
+                background-color: var(--lumo-success-text-color);;
+                color: var(--lumo-success-contrast-color);
+            }
+
+            :host([theme~="warning"]) [part~="overlay"] {
+                color: #ff6700;
+            }
+
+            :host([theme~="error"]) [part~="overlay"] {
+                background-color: var(--lumo-error-color);;
+                color: var(--lumo-error-contrast-color);
+            }
+        </style>
+    </template>
+</dom-module>

@@ -1,0 +1,50 @@
+
+O
+java:S1128'"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ñ²×ƒ.
+f
+java:S1192Ï"HDefine a constant instead of duplicating this literal "keydown" 4 times.(Ì¬¼Ï8¯õöİ.
+J
+java:S1602½",Remove useless curly braces around statement(…¾şı8¯¿«Ø.
+I
+java:S1602«",Remove useless curly braces around statement(××ËR8Ù±ì„.
+Q
+java:S1948X"4Make "requirementService" transient or serializable.(´ş´Ÿ8ìßæÁ.
+O
+java:S1602‡",Remove useless curly braces around statement(ïüÆèûÿÿÿÿ8ÇÕö„.
+l
+java:S1192²"NDefine a constant instead of duplicating this literal "border-bottom" 4 times.(°‡¸è8»Úó„.
+[
+java:S1858¾"="get" returns a string, there's no need to call "toString()".(à™‚²8¯¿«Ø.
+J
+java:S1602·",Remove useless curly braces around statement(Î¼Å…8Ù±ì„.
+Y	java:S125Î"<This block of commented-out lines of code should be removed.(ñ±™Œ8Ø†ô„.
+J
+java:S1602Ú",Remove useless curly braces around statement(«Äù¶8Ù±ì„.
+j
+java:S1192É"GDefine a constant instead of duplicating this literal "Cancel" 6 times.(­Ú˜Ûûÿÿÿÿ8»Úó„.
+O
+java:S1602³",Remove useless curly braces around statement(Æô¹·ûÿÿÿÿ8Ù±ì„.
+Y
+java:S1948^"7Make "characteristicService" transient or serializable.(äï™Öüÿÿÿÿ8ìßæÁ.
+^	java:S125"<This block of commented-out lines of code should be removed.(¥³Âƒÿÿÿÿÿ8ªàû„.
+J
+java:S1602¯",Remove useless curly braces around statement(üÓ±›8Ù±ì„.
+^	java:S125Ô"<This block of commented-out lines of code should be removed.(Š–ÿğùÿÿÿÿ8Ø†ô„.
+^	java:S125Ò"<This block of commented-out lines of code should be removed.(×§ŠÕüÿÿÿÿ8Ø†ô„.
+O
+java:S1602",Remove useless curly braces around statement(«úÄ§øÿÿÿÿ8ªàû„.
+g
+java:S1192°"IDefine a constant instead of duplicating this literal "row-span" 4 times.(ŞµÎ†8»Úó„.
+Y	java:S125«"<This block of commented-out lines of code should be removed.(ñ°…Ñ8Ø†ô„.
+^	java:S125³"<This block of commented-out lines of code should be removed.(ò€¤Ùşÿÿÿÿ8Ø†ô„.
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(ñ°…Ñ8ıäú„.
+O
+java:S1602Ö",Remove useless curly braces around statement(ïüÆèûÿÿÿÿ8Ù±ì„.
+y
+java:S1192Ó"VDefine a constant instead of duplicating this literal "Fill All Fields First" 4 times.(€±««üÿÿÿÿ8Ù±ì„.
+p
+java:S1192²"RDefine a constant instead of duplicating this literal "1px solid #D3D8E0" 4 times.(°‡¸è8»Úó„.
+O
+java:S1948["2Make "objectiveService" transient or serializable.(¶À¬Œ8ìßæÁ.
+o
+java:S1192ó"LDefine a constant instead of duplicating this literal "Description" 3 times.(À¢Û¸şÿÿÿÿ8¦¦å.

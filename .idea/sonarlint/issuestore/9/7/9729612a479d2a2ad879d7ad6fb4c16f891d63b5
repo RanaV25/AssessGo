@@ -1,0 +1,36 @@
+
+jsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(çúøÄ
+Ysquid:S1126Ê"AReplace this if-then-else statement by a single return statement.(ÎÍ‘½
+ƒsquid:S1488í"fImmediately return this expression instead of assigning it to the temporary variable "streamResource".(²éøŒşÿÿÿÿ
+Jsquid:S1948A"3Make "assessmentService" transient or serializable.(ù¤ËÖ
+jsquid:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(÷ú‘»
+@squid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+psquid:S1450d"YRemove the "fullLayout" field and declare it as a local variable in the relevant methods.(´Œè‡
+ssquid:S1450_"WRemove the "imageDiv" field and declare it as a local variable in the relevant methods.(İ•ÿáüÿÿÿÿ
+Psquid:S1612Ú",Replace this lambda with a method reference.(¤¤ÿÊşÿÿÿÿ8É©ìô‰.
+Zsquid:S3655ƒ"=Call "tempAssessment.isPresent()" before accessing the value.(îŒ…õÿÿÿÿÿ
+@squid:S1148³"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+osquid:S1450`"XRemove the "helpImage" field and declare it as a local variable in the relevant methods.(şğáÑ
+>squid:S1068>"'Remove this unused "LOG" private field.(ˆ´…–
+nsquid:S1450^"WRemove the "helpText" field and declare it as a local variable in the relevant methods.(‹‘ï
+Vsquid:S3655"9Call "assessment.isPresent()" before accessing the value.(²§¢¹üÿÿÿÿ
+asquid:HiddenFieldCheck">Rename "assessment" which hides the field declared at line 78.(Š­í
+ysquid:UselessImportCheck"IRemove this unused import 'com.weaverealm.backend.enums.AnswerLevelEnum'.(â«Ï«üÿÿÿÿ8§Æûô‰.
+qsquid:S1450\"ZRemove the "questionDiv" field and declare it as a local variable in the relevant methods.(÷„¯ê
+usquid:S1450e"YRemove the "mainLayout" field and declare it as a local variable in the relevant methods.(ä‹°àùÿÿÿÿ
+xsquid:S1450f"\Remove the "buttonsLayout" field and declare it as a local variable in the relevant methods.(Ç¼ªûùÿÿÿÿ
+Msquid:S1948D"1Make "questionService" transient or serializable.(ç»¥ÿÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¹éÑÿÿÿÿÿ
+Isquid:S1948G"-Make "userService" transient or serializable.(¶òÁÈùÿÿÿÿ
+Isquid:S1948J"-Make "quizService" transient or serializable.(ûá‘ôüÿÿÿÿ
+ysquid:S1450["]Remove the "informationDiv" field and declare it as a local variable in the relevant methods.(š÷íëøÿÿÿÿ
+asquid:HiddenFieldCheck">Rename "assessment" which hides the field declared at line 78.(Š­í
+@squid:S1148Ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Gsquid:S1068T"0Remove this unused "givenAnswers" private field.(¬Ÿ×
+xsquid:S3923ø"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÒŠØ¦øÿÿÿÿ
+ysquid:S1450n"bRemove the "questionProgressBar" field and declare it as a local variable in the relevant methods.(İ‰…
+squid:S1450i"cRemove the "correctAnswerCounter" field and declare it as a local variable in the relevant methods.(ë”Çúÿÿÿÿ
+hsquid:S1192Ç"KDefine a constant instead of duplicating this literal "assessment" 7 times.(Ğÿßøÿÿÿÿ
+msquid:S1450h"VRemove the "counter" field and declare it as a local variable in the relevant methods.(ÑÅ¬×
+tsquid:S1450]"XRemove the "answerDiv" field and declare it as a local variable in the relevant methods.(˜úÙÄûÿÿÿÿ

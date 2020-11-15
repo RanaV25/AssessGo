@@ -1,0 +1,31 @@
+
+Isquid:S1612¼",Replace this lambda with a method reference.(Ê£©Ïøÿÿÿÿ
+Ksquid:S1602ñ",Remove useless curly braces around statement(îÏãÔ8ûŠ»†.
+Bsquid:S1948?"&Make "quiz" transient or serializable.(îâå‚şÿÿÿÿ
+Psquid:S1602ı",Remove useless curly braces around statement(º´˜†üÿÿÿÿ8ûŠ»†.
+Jsquid:S3655^"3Call "quiz.isPresent()" before accessing the value.(ôâˆá
+Nsquid:S3655^"7Call "Optional#isPresent()" before accessing the value.(ôâˆá
+Psquid:S3655Ã"3Call "quiz.isPresent()" before accessing the value.( ©À²ıÿÿÿÿ
+Isquid:S19487"-Make "userService" transient or serializable.(¶òÁÈùÿÿÿÿ
+jsquid:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ìäÙâ
+Ksquid:S1602­",Remove useless curly braces around statement(îÏãÔ8ûŠ»†.
+‚squid:S00116I"eRename this field "NO_OF_CATEGORIES_ON_X_AXIS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ŞßŒûÿÿÿÿ
+Ksquid:S1948:"/Make "reportService" transient or serializable.(åî– ûÿÿÿÿ
+Ksquid:S19481"/Make "answerService" transient or serializable.(ü—íÿÿÿÿÿ
+Dsquid:S1602Ì",Remove useless curly braces around statement(îÏãÔ
+Tsquid:S3655¸"7Call "question.isPresent()" before accessing the value.(—¢¡Ïúÿÿÿÿ
+Wsquid:S3655ï"3Call "quiz.isPresent()" before accessing the value.(õ¿¯÷øÿÿÿÿ8ûŠ»†.
+Wsquid:S3655«"3Call "quiz.isPresent()" before accessing the value.(õ¿¯÷øÿÿÿÿ8ûŠ»†.
+Isquid:S1948("-Make "quizService" transient or serializable.(ûá‘ôüÿÿÿÿ
+Isquid:S1602Ù",Remove useless curly braces around statement(º´˜†üÿÿÿÿ
+Isquid:S1612™",Replace this lambda with a method reference.(Ê£©Ïøÿÿÿÿ
+Msquid:S1948."1Make "questionService" transient or serializable.(ç»¥ÿÿÿÿÿ
+Rsquid:S19484"6Make "questionGroupService" transient or serializable.(°ƒõ¤üÿÿÿÿ
+2squid:S3626P"Remove this redundant jump.(ûÁİ…
+vsquid:S1450>"SRemove the "tabs" field and declare it as a local variable in the relevant methods.(ˆ¦Ñšøÿÿÿÿ8ÊÔ©»†.
+Psquid:S3655â"3Call "quiz.isPresent()" before accessing the value.(õ¿¯÷øÿÿÿÿ
+Ksquid:S3655•"3Call "quiz.isPresent()" before accessing the value.(ƒº
+Ksquid:S1602Õ",Remove useless curly braces around statement(½ğ¤ã8ûŠ»†.
+Jsquid:S1948+"3Make "assessmentService" transient or serializable.(ù¤ËÖ
+Dsquid:S1602ä",Remove useless curly braces around statement(îÏãÔ
+Psquid:S3655Ê"3Call "quiz.isPresent()" before accessing the value.(õ¿¯÷øÿÿÿÿ

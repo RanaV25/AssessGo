@@ -1,0 +1,9 @@
+
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ë‹˜½.
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8üÆ¾.
+H
+java:S2160"+Override the "equals" method in this class.(¢´ö8ûâ².
+v	java:S116"URename this field "LastEdited" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şê¯îûÿÿÿÿ8Úì«¶.

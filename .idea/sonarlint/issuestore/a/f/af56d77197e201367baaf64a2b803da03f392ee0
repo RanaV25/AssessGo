@@ -1,0 +1,5 @@
+
+Xsquid:S3655("<Call "existedEntity.isPresent()" before accessing the value.(ˆˆéªûÿÿÿÿ
+^squid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(ÿœˆ
+^squid:S00112&"FDefine and throw a dedicated exception instead of using a generic one.(—Òö—
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®øÛ

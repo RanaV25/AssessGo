@@ -1,0 +1,21 @@
+
+_squid:S1126Š"BReplace this if-then-else statement by a single method invocation.(÷ö‡åøÿÿÿÿ
+Bsquid:S1148ú"#Use a logger to log this exception.(Ç’Çê8ğ˜¸¹†.
+Psquid:S1602ò",Remove useless curly braces around statement(“²½½şÿÿÿÿ8ğ˜¸¹†.
+Rsquid:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+[squid:S1155¯">Use isEmpty() to check whether the collection is empty or not.(Ş‡¬ûúÿÿÿÿ
+isquid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­…Q
+jsquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(±ğŒÏ
+Rsquid:S1141ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+@squid:S1148ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Jsquid:S1602Á",Remove useless curly braces around statement(ÏŠ¸\8€ğ¹†.
+Lsquid:S1948h"0Make "accountService" transient or serializable.(çó³ƒüÿÿÿÿ
+?squid:S1948q"(Make "mapper" transient or serializable.(»˜¿İ
+Isquid:S1948e"-Make "roleService" transient or serializable.(Ù¤Ã•úÿÿÿÿ
+Isquid:S1948b"-Make "userService" transient or serializable.(¶òÁÈùÿÿÿÿ
+@squid:S1148è"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S1155Ê">Use isEmpty() to check whether the collection is empty or not.(ÕÃá¿
+Isquid:S1602¾",Remove useless curly braces around statement(à¥ˆùÿÿÿÿ
+bsquid:CallToDeprecatedMethod "9Remove this use of "executeJavaScript"; it is deprecated.(öŒÄÿ
+Ksquid:S1602Ä",Remove useless curly braces around statement(‘®ÒÛ8ù¦ğ¹†.
